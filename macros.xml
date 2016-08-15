@@ -1,0 +1,34 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="addJapaneseString">
+      <action id="FindNext" />
+      <action id="EditorRight" />
+      <action id="EditorPaste" />
+      <action id="FindNext" />
+      <action id="EditorLeft" />
+      <action id="EditorPaste" />
+      <action id="EditorRight" />
+    </macro>
+    <macro name="&lt;noname&gt;">
+      <action id="EditorLineStart" />
+      <action id="Find" />
+      <typing text-keycode="222:1">&quot;</typing>
+      <shortuct text="ENTER" />
+      <shortuct text="ESCAPE" />
+      <action id="FindPrevious" />
+      <action id="EditorRight" />
+      <action id="EditorPaste" />
+      <action id="FindNext" />
+      <action id="EditorLeft" />
+      <action id="EditorPaste" />
+      <action id="EditorDown" />
+    </macro>
+    <macro name="splitandmoveVarDeclaration">
+      <action id="ShowIntentionActions" />
+      <shortuct text="DOWN" />
+      <shortuct text="RIGHT" />
+      <shortuct text="LEFT" />
+      <shortuct text="ENTER" />
+    </macro>
+  </component>
+</application>

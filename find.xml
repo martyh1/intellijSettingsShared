@@ -1,41 +1,32 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Project Files" />
-    <option name="defaultScopeName" value="Project Files" />
+    <option name="customScope" value="Open Files" />
+    <option name="defaultScopeName" value="Open Files" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="localWholeWordsOnly" value="true" />
     <option name="showResultsInSeparateView" value="true" />
-    <option name="skipResultsWithOneUsage" value="true" />
-    <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
+    <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.java, *.js, *.html, *en.js, *ja.js, *.en-us" />
+    <option name="SEARCH_SCOPE" value="Open Files" />
+    <option name="FILE_MASK" value="*.java, *.js, *.html, *en.js, *ja.js, *.xml" />
     <recentFileMasks>
       <mask>*.properties</mask>
+      <mask>*.html</mask>
       <mask>*.jsp</mask>
       <mask>*.xml</mask>
+      <mask>*.java</mask>
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>supertablecfg.js</mask>
-      <mask>*vol*.js</mask>
-      <mask>*export*.js</mask>
-      <mask>*host*.js</mask>
-      <mask>*json*.java</mask>
-      <mask>*en-us, *ja</mask>
-      <mask>*en.js</mask>
-      <mask>*en.js, *ja.js</mask>
-      <mask>*.html</mask>
-      <mask>*.*</mask>
-      <mask>*edit*.js</mask>
-      <mask>*base*.js</mask>
-      <mask>*base*.html</mask>
-      <mask>*edit*.html</mask>
-      <mask>*.java, *.js, *.html, *en-us, *ja</mask>
-      <mask>*.java, *.js, *.html, *en.js, *ja.js</mask>
+      <mask>*core*en.js</mask>
       <mask>*.js</mask>
-      <mask>*.java</mask>
-      <mask>*.java, *.js, *.html, *en.js, *ja.js, *.en-us</mask>
+      <mask>*.java, *.js, *.html, *en.js, *ja.js</mask>
+      <mask>*.java, *.js, *.html, *en.js, *ja.js, *.xml</mask>
     </recentFileMasks>
   </component>
 </application>
